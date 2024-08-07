@@ -201,9 +201,11 @@ button{
    margin: 100px;
 }
 /* .div1{
-    border: 2px solid whitesmoke;
+    float: left;
+}
+.div2{
+    float: left;
 } */
-
 .message1 h3 a{
     text-decoration: none;
     color: black;
@@ -311,4 +313,42 @@ padding: 20px;
 .message_e p a:hover{
     text-decoration:underline;
 }
-
+.colour1{
+    float: left;
+    padding: 50px;
+}
+.colour2{
+    float: left;
+    padding: 50px;
+}
+.colour3{
+    float: left;
+    padding: 50px;
+}
+.colour4{
+    float: left;
+    padding: 50px;
+}
+.colour5{
+    float: left;
+    padding: 50px;
+}
+.dec li{
+    list-style-type: none;
+}
+.dec li a{
+    text-decoration: none;
+    color: black;
+}
+.dec li a:hover{
+   text-decoration: underline;
+}
+.bit{
+    cursor: pointer;
+}
+#radio{
+    border: 1px solid grey;
+    border-radius: 1px ;
+    width: 10px;
+    height: 10px;
+}
